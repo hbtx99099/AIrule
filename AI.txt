@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,cerebras.ai
 
+payload:
 # 内容：OpenAi,claude,recraft,poe,bing,gemini,perplexity
-
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,auth0.com
