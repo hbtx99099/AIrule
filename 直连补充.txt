@@ -1,4 +1,4 @@
-
+payload:
   "DOMAIN,steamcdn-a.akamaihd.net,全局直连",
   "DOMAIN-SUFFIX,cm.steampowered.com,全局直连",
   "DOMAIN-SUFFIX,steamserver.net,全局直连",
