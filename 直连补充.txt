@@ -1,0 +1,7 @@
+
+  "DOMAIN,steamcdn-a.akamaihd.net,全局直连",
+  "DOMAIN-SUFFIX,cm.steampowered.com,全局直连",
+  "DOMAIN-SUFFIX,steamserver.net,全局直连",
+  "DOMAIN-SUFFIX,steamcontent.com,全局直连",
+  "DOMAIN,dcg.microsoft.com,全局直连",
+  "DOMAIN,signalrs2-relayhub-prod-as01-1.service.signalr.net,全局直连"
