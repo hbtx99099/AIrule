@@ -88,9 +88,10 @@ payload:
   - IP-ASN,14061
   - IP-ASN,20473
 
-  - DOMAIN,proactivebackend-pa.googleapis.com
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
