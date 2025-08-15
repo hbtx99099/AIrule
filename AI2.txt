@@ -35,7 +35,6 @@ payload:
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,20473
 
-
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
   - DOMAIN,assets.msn.com
