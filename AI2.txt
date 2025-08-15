@@ -88,7 +88,7 @@ payload:
   - IP-ASN,14061
   - IP-ASN,20473
 
-
+  - DOMAIN,proactivebackend-pa.googleapis.com
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
