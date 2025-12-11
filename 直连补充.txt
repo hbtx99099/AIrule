@@ -4,4 +4,5 @@ payload:
   "DOMAIN-SUFFIX,steamserver.net,全局直连",
   "DOMAIN-SUFFIX,steamcontent.com,全局直连",
   "DOMAIN,dcg.microsoft.com,全局直连",
+  "DOMAIN,zujuan.asia,全局直连",
   "DOMAIN,signalrs2-relayhub-prod-as01-1.service.signalr.net,全局直连"
