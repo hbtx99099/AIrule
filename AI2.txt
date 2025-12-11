@@ -100,3 +100,23 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+# --- Gemini 语音与 App 修复补丁 (追加到你的列表) ---
+
+# 核心 API (涵盖 texttospeech, speech, generativelanguage 等)
+- DOMAIN-SUFFIX,googleapis.com
+
+# 静态资源与媒体流 (防止播放器加载失败)
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,googleusercontent.com
+
+# 宽泛的 Google AI 相关 (查漏补缺)
+- DOMAIN-SUFFIX,bard.google.com
+- DOMAIN-SUFFIX,gemini.google.com
+- DOMAIN-SUFFIX,generativeai.google
+- DOMAIN-KEYWORD,generativelanguage
+
+# 基础设施 (防止握手失败)
+- DOMAIN-SUFFIX,1e100.net
+- DOMAIN-SUFFIX,clientservices.googleapis.com
+
