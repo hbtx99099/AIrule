@@ -316,7 +316,7 @@ const ruleProviders = {
     ...ruleProviderCommon,
 
     "behavior": "domain",
-    "format": "yaml"，
+    "format": "text"，
     "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.vivo.txt",
 
     "path": "./ruleset/hagezi/vivoblock.yaml"
