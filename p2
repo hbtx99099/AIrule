@@ -728,6 +728,8 @@ const commonFilter = "^(?!.*(官网|套餐|流量|异常|剩余)).*$";
         "ports": [80, 8080],
         "override-destination": true
       }
+      //  "QUIC": { "ports": [443, 8443] } 
+      // 【新增】开启 QUIC 嗅探
     }
   };
 
