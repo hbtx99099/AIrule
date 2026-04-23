@@ -189,6 +189,7 @@ const rules = [
 
   // 4. 自定义代理
   "DOMAIN-SUFFIX,googleapis.cn,节点选择",
+  "DOMAIN-SUFFIX,googleapis.com,谷歌服务",
   "DOMAIN-SUFFIX,gstatic.com,节点选择",
   "DOMAIN-SUFFIX,xn--ngstr-lra8j.com,节点选择",
   "DOMAIN-SUFFIX,github.io,节点选择",
